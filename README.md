@@ -1,8 +1,3 @@
-Перфектно ✅
-Ето готовия текст — **изцяло на английски**, със **запазена структура и Markdown формат** като в оригиналния шаблон, но със съдържанието от курса **HTML & CSS – September 2025**:
-
----
-
 # 📘 HTML & CSS - September 2025
 
 Welcome to the **HTML & CSS** course repository! Here, you'll find my solutions, exercises, and projects from SoftUni's **HTML & CSS** course. Let's explore the fundamentals of web development together! 🚀
@@ -83,10 +78,6 @@ This course is suitable for:
 * 🏆 **Certificate of Completion**: Awarded for a grade of **5.00+** on the practical exam.
 * 🎖️ **State-Recognized Certificate**: Available to students who meet the requirements. Valid across the **European Union**.
 
-## 💰 Course Fee & Access
-
-* **Price**: 330.00 BGN (€168.73)
-
 ### Includes:
 
 * 🎥 **Online learning with lifetime access to all video lessons and resources**
@@ -112,7 +103,3 @@ If you have any questions, feel free to reach out via email: **[kadiryazadzhi@gm
 ---
 
 Join me in mastering **HTML & CSS** and building beautiful, responsive websites! 💻✨
-
----
-
-Искаш ли да го форматирам директно като `.md` файл (готов за GitHub README) и да ти го дам за изтегляне?
